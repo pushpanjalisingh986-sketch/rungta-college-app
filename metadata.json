@@ -1,0 +1,8 @@
+{
+  "name": "RISU Attendance & Communication Hub",
+  "description": "A high-security, AI-powered real-time attendance and communication portal for Rungta International Skills University, featuring voice navigation and role-based access for CRs and HODs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
